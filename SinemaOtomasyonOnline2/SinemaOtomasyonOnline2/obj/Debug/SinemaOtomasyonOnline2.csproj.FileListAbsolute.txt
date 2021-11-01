@@ -1,0 +1,12 @@
+C:\Users\dogan.dagbasti\Downloads\BC\Interns\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\bin\Debug\SinemaOtomasyonOnline2.exe.config
+C:\Users\dogan.dagbasti\Downloads\BC\Interns\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\bin\Debug\SinemaOtomasyonOnline2.exe
+C:\Users\dogan.dagbasti\Downloads\BC\Interns\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\bin\Debug\SinemaOtomasyonOnline2.pdb
+C:\Users\dogan.dagbasti\Downloads\BC\Interns\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\obj\Debug\SinemaOtomasyonOnline2.csprojAssemblyReference.cache
+C:\Users\dogan.dagbasti\Downloads\BC\Interns\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\obj\Debug\SinemaOtomasyonOnline2.Form1.resources
+C:\Users\dogan.dagbasti\Downloads\BC\Interns\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\obj\Debug\SinemaOtomasyonOnline2.Properties.Resources.resources
+C:\Users\dogan.dagbasti\Downloads\BC\Interns\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\obj\Debug\SinemaOtomasyonOnline2.csproj.GenerateResource.cache
+C:\Users\dogan.dagbasti\Downloads\BC\Interns\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\obj\Debug\SinemaOtomasyonOnline2.csproj.CoreCompileInputs.cache
+C:\Users\dogan.dagbasti\Downloads\BC\Interns\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\obj\Debug\SinemaOtomasyonOnline2.exe
+C:\Users\dogan.dagbasti\Downloads\BC\Interns\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\obj\Debug\SinemaOtomasyonOnline2.pdb
+C:\Users\dogan.dagbasti\Downloads\BC\Interns\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\obj\Debug\SinemaOtomasyonOnline2.KoltukDetayForm.resources
+C:\Users\dogan.dagbasti\Downloads\BC\Interns\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\SinemaOtomasyonOnline2\obj\Debug\SinemaOtomasyonOnline2.AnalizForm.resources
